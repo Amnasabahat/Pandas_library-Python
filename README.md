@@ -9,7 +9,7 @@ The goal of this notebook is to help beginners and data enthusiasts understand h
 ## 📘 Medium Article
 
 This notebook is explained in detail in my blog post:  
-👉 [**Why Pandas is the Backbone of Python Data Science?**]([https://your-medium-article-link.com](https://medium.com/@amnasabahat414/why-pandas-is-the-backbone-of-python-data-science-4369965cbfa5))
+👉 [**Why Pandas is the Backbone of Python Data Science?**](https://medium.com/@amnasabahat414/why-pandas-is-the-backbone-of-python-data-science-4369965cbfa5)
 
 ---
 
@@ -23,7 +23,7 @@ This notebook is explained in detail in my blog post:
 
 ---
 
-## Feedback & Contributions
-Feel free to open an issue or suggest improvements!
-If you liked the article or notebook, give the repo a ⭐️
+## 💬 Feedback & Contributions
 
+Feel free to open an issue or suggest improvements!  
+If you liked the article or notebook, give the repo a ⭐️
