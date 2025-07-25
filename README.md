@@ -24,7 +24,8 @@ This notebook is explained in detail in my blog post:
 ---
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Amnasabahat/Pandas_library-Python.git
+     git clone https://github.com/Amnasabahat/pandas-functions.git
+
   ---
 ## 💬 Feedback & Contributions
 Feel free to open an issue or suggest improvements!  
